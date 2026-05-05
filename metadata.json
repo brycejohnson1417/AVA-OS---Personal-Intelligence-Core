@@ -1,0 +1,5 @@
+{
+  "name": "Ava OS - Personal Intelligence Core",
+  "description": "A centralized dashboard for orchestrating a personal intelligence system, featuring a semantic knowledge graph, AI orchestrator interface, and environment configuration protocols.",
+  "requestFramePermissions": []
+}
